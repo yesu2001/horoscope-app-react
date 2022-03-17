@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# TODO-React-App
-React Todo app using hooks and local storage
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
